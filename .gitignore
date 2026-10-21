@@ -7,3 +7,9 @@ logs/
 *.db-shm
 *.db-wal
 .env
+backups/
+.replication-token
+.witness-token
+*.log
+*.pid
+*.before-*
